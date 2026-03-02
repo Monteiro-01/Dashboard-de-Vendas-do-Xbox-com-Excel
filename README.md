@@ -29,6 +29,7 @@ O dashboard permite acompanhar métricas de vendas, identificar tendências e ap
 ## 📂 Estrutura do Repositório
 
 Dashboard-de-Vendas-do-Xbox-com-Excel/
+
 │── Dashboard.xlsx   # Arquivo principal com o dashboard
 
 │── README.md        # Documentação do projeto
